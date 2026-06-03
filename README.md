@@ -2,7 +2,7 @@
 Hi, I'm Kosha Bante
 <br>
 BCA Graduate (2026)
-<br?
+<br>
 Python Developer | C | C++ | HTML|
 <br>
 Building Real-World Projects
